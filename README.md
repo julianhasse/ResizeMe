@@ -1,7 +1,7 @@
 # ResizeMe
 ### ResizeMe plugin for SketchApp
 
-__ By Julian Hasse __ 2019
+__By Julian Hasse__ 2019
 
 ### Installation
 1. Double clik ResizeMe.sketchplugin file
