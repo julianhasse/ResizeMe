@@ -1,0 +1,24 @@
+{
+  "author" : "",
+  "commands" : [
+    {
+      "script" : "script.cocoascript",
+      "name" : "ResizeMe",
+      "handlers" : {
+        "run" : "onRun"
+      },
+      "identifier" : "com.bohemiancoding.sketch.runscriptidentifier"
+    }
+  ],
+  "menu" : {
+    "title" : "ResizeMe",
+    "items" : [
+      "com.bohemiancoding.sketch.runscriptidentifier"
+    ]
+  },
+  "identifier" : "com.example.sketch.670b4cd2-89a4-4ede-ae8d-84c426f94076",
+  "version" : "1.0",
+  "description" : "",
+  "authorEmail" : "",
+  "name" : "ResizeMe"
+}
